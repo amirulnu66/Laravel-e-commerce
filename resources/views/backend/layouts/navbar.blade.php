@@ -16,9 +16,9 @@
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link nav-parent" href="#">
+						<a class="nav-link nav-parent" href="{{url('/products')}}">
 							<i class="batch-icon batch-icon-layout-content-left"></i>
-							Layout
+							Product
 						</a>
 						<ul class="nav nav-pills flex-column">
 							<li class="nav-item">

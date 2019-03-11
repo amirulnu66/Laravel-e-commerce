@@ -21,3 +21,5 @@ Route::get('/admin/dashboard','HomeController@index');
 
 
 Route::get('/', 'frontend\HomeController@index' );
+
+Route::get('/products', 'admin\ProductController@showProducts');
